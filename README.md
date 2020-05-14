@@ -10,3 +10,12 @@
 All in one!
 
 Inspired by brain structure, card index, roam research...
+
+## Alternatives
+
+* roam research - https://roamresearch.com/
+* TiddlyRoam - https://joekroese.github.io/tiddlyroam/
+* RemNote - https://www.remnote.io/
+* Athens - https://github.com/athensresearch/athens
+
+**Welcome update the alternatives information.**
