@@ -1,4 +1,4 @@
-# open-roam
+# open roam
 
 * A comfortable knowledge management system
 * A handy note taking app.
