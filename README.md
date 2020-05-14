@@ -21,4 +21,4 @@ Inspired by brain structure, card index, roam research...
 * org-roam - https://github.com/org-roam/org-roam
 * RoamEdit
 
-**Welcome update the alternatives information.**
+**Welcome to update or give suggestion**
