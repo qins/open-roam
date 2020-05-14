@@ -18,5 +18,7 @@ Inspired by brain structure, card index, roam research...
 * RemNote - https://www.remnote.io/
 * Athens - https://github.com/athensresearch/athens
 * Obsidian.md - https://obsidian.md/
+* org-roam - https://github.com/org-roam/org-roam
+* RoamEdit
 
 **Welcome update the alternatives information.**
