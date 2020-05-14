@@ -17,5 +17,6 @@ Inspired by brain structure, card index, roam research...
 * TiddlyRoam - https://joekroese.github.io/tiddlyroam/
 * RemNote - https://www.remnote.io/
 * Athens - https://github.com/athensresearch/athens
+* Obsidian.md - https://obsidian.md/
 
 **Welcome update the alternatives information.**
